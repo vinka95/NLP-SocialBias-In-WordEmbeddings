@@ -1,0 +1,352 @@
+[
+    {
+        "word_name": "mantsiou",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7069172263145447,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7342767119407654,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6994741261005402,
+        "average": 0.7135560214519501
+    },
+    {
+        "word_name": "mntps",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.9342683702707291,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8947114422917366,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8269628435373306,
+        "average": 0.8853142186999321
+    },
+    {
+        "word_name": "measuresend",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7521391808986664,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7023491859436035,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7731718122959137,
+        "average": 0.7425533930460612
+    },
+    {
+        "word_name": "prelevata",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.9471030123531818,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7764053195714951,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8084437102079391,
+        "average": 0.8439840140442053
+    },
+    {
+        "word_name": "cuneglasus",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7610670477151871,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7072156965732574,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7430299520492554,
+        "average": 0.7371042321125666
+    },
+    {
+        "word_name": "arrigoni",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7855354100465775,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7811195850372314,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7434316873550415,
+        "average": 0.7700288941462835
+    },
+    {
+        "word_name": "nzmwmmq",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7808351963758469,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7714057117700577,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6718797981739044,
+        "average": 0.7413735687732697
+    },
+    {
+        "word_name": "gqfla",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.814437985420227,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.751087561249733,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7267146706581116,
+        "average": 0.7640800724426905
+    },
+    {
+        "word_name": "stabulas",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8803493678569794,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8449642807245255,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8292027115821838,
+        "average": 0.8515054533878962
+    },
+    {
+        "word_name": "vec_anchor",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6638298034667969,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6341457366943359,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.733600378036499,
+        "average": 0.677191972732544
+    },
+    {
+        "word_name": "shoemodels",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6413009464740753,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7031872868537903,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7350983023643494,
+        "average": 0.693195511897405
+    },
+    {
+        "word_name": "sod\u00e1tete",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0,
+        "average": 0.0
+    },
+    {
+        "word_name": "leb_s",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.9615015611052513,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8884758874773979,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.9337434843182564,
+        "average": 0.9279069776336352
+    },
+    {
+        "word_name": "\u06af\u0631\u062f\u0647\u0645",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 1.2292221039533615,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.5847694873809814,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 1.130920186638832,
+        "average": 0.9816372593243917
+    },
+    {
+        "word_name": "authorx",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7712724506855011,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7226809561252594,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7342429161071777,
+        "average": 0.7427321076393127
+    },
+    {
+        "word_name": "corepropsum",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8014259487390518,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7728040516376495,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7118974328041077,
+        "average": 0.7620424777269363
+    },
+    {
+        "word_name": "wangblo",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.827735185623169,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7724593579769135,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.803964227437973,
+        "average": 0.8013862570126852
+    },
+    {
+        "word_name": "ematic",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8219086080789566,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6999620497226715,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6745129227638245,
+        "average": 0.7321278601884842
+    },
+    {
+        "word_name": "zakariah",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6868715584278107,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.716675341129303,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6701777875423431,
+        "average": 0.6912415623664856
+    },
+    {
+        "word_name": "f_real",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6327411532402039,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7404166758060455,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7313428819179535,
+        "average": 0.7015002369880676
+    },
+    {
+        "word_name": "harvestroyal",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8241768330335617,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6982479691505432,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6999033689498901,
+        "average": 0.740776057044665
+    },
+    {
+        "word_name": "lotcontrol",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7547050714492798,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7100013792514801,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6954748034477234,
+        "average": 0.7200604180494944
+    },
+    {
+        "word_name": "lu\u00e3m",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6877127587795258,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7375055551528931,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6826536953449249,
+        "average": 0.7026240030924479
+    },
+    {
+        "word_name": "changeanyproc",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 1.1280056983232498,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 1.1280056983232498,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0,
+        "average": 0.7520037988821665
+    },
+    {
+        "word_name": "extrastufi",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7955240607261658,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8282601684331894,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7685646861791611,
+        "average": 0.7974496384461721
+    },
+    {
+        "word_name": "voipon",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.598366767168045,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6867461204528809,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7297638058662415,
+        "average": 0.6716255644957224
+    },
+    {
+        "word_name": "totative",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7683678865432739,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7067185938358307,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7597800642251968,
+        "average": 0.7449555148681005
+    },
+    {
+        "word_name": "unattaching",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7588090896606445,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7378011345863342,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8264140337705612,
+        "average": 0.77434141933918
+    },
+    {
+        "word_name": "cntrational",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7995343506336212,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.936368003487587,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8198267221450806,
+        "average": 0.8519096920887629
+    },
+    {
+        "word_name": "cmspriv",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7210139036178589,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7354737520217896,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8241585493087769,
+        "average": 0.7602154016494751
+    },
+    {
+        "word_name": "knockd",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6897285580635071,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6510007679462433,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6566105782985687,
+        "average": 0.6657799681027731
+    },
+    {
+        "word_name": "caribolt",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.742948591709137,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6855208575725555,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7043022215366364,
+        "average": 0.7109238902727762
+    },
+    {
+        "word_name": "pumpedzinf",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7576669603586197,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7733379453420639,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7656972408294678,
+        "average": 0.7655673821767172
+    },
+    {
+        "word_name": "fetch_all_query",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7313377559185028,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6847347617149353,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6855785250663757,
+        "average": 0.7005503475666046
+    },
+    {
+        "word_name": "jll",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7584059238433838,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7538787424564362,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8107846081256866,
+        "average": 0.7743564248085022
+    },
+    {
+        "word_name": "ignixnoura",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8454613387584686,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.848697766661644,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8793787881731987,
+        "average": 0.8578459645311037
+    },
+    {
+        "word_name": "nonextrapolated",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7295721173286438,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7572419196367264,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8194091320037842,
+        "average": 0.7687410563230515
+    },
+    {
+        "word_name": "denominatorsum",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7445302307605743,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7057909369468689,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.686908483505249,
+        "average": 0.7124098837375641
+    },
+    {
+        "word_name": "\u03d5\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0,
+        "average": 0.0
+    },
+    {
+        "word_name": "cangmaong",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8719771355390549,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8750041425228119,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.74824458360672,
+        "average": 0.8317419538895289
+    },
+    {
+        "word_name": "z\u00ech\u00e1o",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8168054521083832,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8223776072263718,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.8560972511768341,
+        "average": 0.831760103503863
+    },
+    {
+        "word_name": "officeus",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7557788640260696,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7642133682966232,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7563706040382385,
+        "average": 0.7587876121203104
+    },
+    {
+        "word_name": "zenfs",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7112603783607483,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7519447058439255,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6477947533130646,
+        "average": 0.7036666125059128
+    },
+    {
+        "word_name": "\u03b5\u1f50\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03b6\u03b5\u03c4\u03b1\u03b9",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.8125775903463364,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.8869813531637192,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.9818052053451538,
+        "average": 0.8937880496184031
+    },
+    {
+        "word_name": "costaspapa",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.886257067322731,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7432461082935333,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.7710250914096832,
+        "average": 0.8001760890086492
+    },
+    {
+        "word_name": "calorieval",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7894865423440933,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6898709833621979,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6840470433235168,
+        "average": 0.7211348563432693
+    },
+    {
+        "word_name": "nastola",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7709668874740601,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.6650757491588593,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6987084746360779,
+        "average": 0.7115837037563324
+    },
+    {
+        "word_name": "urbio",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.819587767124176,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7681619375944138,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6858237981796265,
+        "average": 0.7578578342994055
+    },
+    {
+        "word_name": "kluhg",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.7514953911304474,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7109297811985016,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6664224863052368,
+        "average": 0.7096158862113953
+    },
+    {
+        "word_name": "hoverdetails",
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-32": 0.6872945129871368,
+        "../models/case1/w2v-pile-workers-8--../models/case1/w2v-pile-workers-1": 0.7059835195541382,
+        "../models/case1/w2v-pile-workers-32--../models/case1/w2v-pile-workers-1": 0.6750745475292206,
+        "average": 0.6894508600234985
+    }
+]

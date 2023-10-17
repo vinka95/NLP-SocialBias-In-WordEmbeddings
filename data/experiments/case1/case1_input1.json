@@ -1,0 +1,51 @@
+{
+    "models": [
+        {
+            "id": "w2v-pile-workers-8",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "dataset": "pile",
+<<<<<<< HEAD:data/experiments/case1_input2.json
+            "model_save_path": "../models/case1/w2v_pile_1",
+            "word2vec" : {
+            "vector_size": 300,
+            "workers": 8
+            }
+        },
+	{
+            "id": "w2v2",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "dataset": "pile",
+            "model_save_path": "../models/case1/w2v_pile_2",
+            "word2vec" : {
+            "vector_size": 300,
+            "workers": 8
+            }
+	},
+	{
+            "id": "w2v3",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "dataset": "pile",
+            "model_save_path": "../models/case1/w2v_pile_3",
+=======
+            "model_save_path": "../models/case1/w2v-pile-workers-8",
+>>>>>>> [GEN] Adds modularised scripts to train, evaluate and vizualize word embeddings:data/experiments/case1/case1_input1.json
+            "word2vec" : {
+            "vector_size": 300,
+            "workers": 8
+            }
+        }
+    ],
+    "metrics" : ["WEAT", "RNSB"],
+    "queries" : [
+        {
+            "queries_path_name" : "../data/raw/queries.json",
+            "target_sets_names" : ["gender", "female", "male"],
+            "attribute_sets_names" : ["family", "career"]
+        }    
+    ],
+    "case_id" : "w2v-pile-workers-8",
+    "results_file_path" : "../data/results/case1/w2v-pile-workers-8.json"    
+}

@@ -1,0 +1,24 @@
+{
+    "models": [
+        {
+            "id": "w2v-pile-vector_size-100",
+            "model_name": "word2vec",
+            "dataset": "pile",
+            "model_save_path": "../models/case3/w2v-pile-vector_size-100",
+            "word2vec" : {
+            "vector_size": 100,
+            "workers": 32
+            }
+     	}
+    ],
+    "metrics" : ["WEAT", "RNSB"],
+    "queries" : [
+        {
+            "queries_path_name" : "../data/raw/queries.json",
+            "target_sets_names" : ["gender", "female", "male"],
+            "attribute_sets_names" : ["family", "career"]
+        }
+    ],
+    "case_id" : "case3-w2v-pile-vector_size-100",
+    "results_file_path" : "../data/results/case3/res-case3-w2v-pile-vector_size-100.json"
+}

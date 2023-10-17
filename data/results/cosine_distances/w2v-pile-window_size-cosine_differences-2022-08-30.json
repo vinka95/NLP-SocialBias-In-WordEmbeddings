@@ -1,0 +1,502 @@
+[
+    {
+        "word_name": "fifreeze",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9858414605259895,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9376707226037979,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0445799380540848,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9706000424921513,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0194100812077522,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0392353646457195,
+        "average": 0.9995562682549158
+    },
+    {
+        "word_name": "dodrawtext",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9093234166502953,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9206935614347458,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0204632375389338,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9101308509707451,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9750895481556654,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.992077948525548,
+        "average": 0.9546297605459889
+    },
+    {
+        "word_name": "artistryindecks",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0,
+        "average": 0.0
+    },
+    {
+        "word_name": "saidajigumi",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9689406510442495,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9391274228692055,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9963424040470272,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8767713010311127,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8846684619784355,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0453563928604126,
+        "average": 0.9518677723050738
+    },
+    {
+        "word_name": "tachandler",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9410333558917046,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0570000633597374,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0459776259958744,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8213368207216263,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.1176503747701645,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8250312507152557,
+        "average": 0.9680049152423938
+    },
+    {
+        "word_name": "\u53f8\u99ac\u8ac7",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9054474160075188,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9900700952857733,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0116149773821235,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9415273517370224,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9795322604477406,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9379503652453423,
+        "average": 0.9610237443509201
+    },
+    {
+        "word_name": "teapotnode_",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9393832348287106,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9194987118244171,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9619798250496387,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8795518726110458,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9236486330628395,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9986826652893797,
+        "average": 0.9371241571110053
+    },
+    {
+        "word_name": "kusniryk",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0309207793325186,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9421606361865997,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9065394997596741,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9572004750370979,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9552967064082623,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0503333136439323,
+        "average": 0.9737419017280141
+    },
+    {
+        "word_name": "cfrecombinant",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0294943880289793,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9862924283370376,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.080552339553833,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9972892981022596,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9526985548436642,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9746389575302601,
+        "average": 1.0034943277326722
+    },
+    {
+        "word_name": "schwarmv\u00f6gel",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0,
+        "average": 0.0
+    },
+    {
+        "word_name": "prembt",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0324285924434662,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9546154253184795,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0382909961044788,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 1.0156828109174967,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8705365657806396,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.00686960760504,
+        "average": 0.9864039996949335
+    },
+    {
+        "word_name": "sulyvahna",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8526576608419418,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0379295758903027,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9627977646887302,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9211029410362244,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9189818724989891,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8436553031206131,
+        "average": 0.9228541863461336
+    },
+    {
+        "word_name": "lastlat",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9141915291547775,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9161737486720085,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0493114180862904,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8416481465101242,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8864894360303879,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8942379429936409,
+        "average": 0.9170087035745382
+    },
+    {
+        "word_name": "uents",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.771986111998558,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9459234811365604,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9509974606335163,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9292988702654839,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9471567906439304,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8886894211173058,
+        "average": 0.9056753559658924
+    },
+    {
+        "word_name": "tebuireng",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9553034603595734,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9215744063258171,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9538951814174652,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8588689565658569,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8465979397296906,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.950228076428175,
+        "average": 0.9144113368044297
+    },
+    {
+        "word_name": "larken",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9365696012973785,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9500085152685642,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9138618260622025,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8360415697097778,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0618171207606792,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9672398567199707,
+        "average": 0.9442564149697622
+    },
+    {
+        "word_name": "fgg_",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9477240182459354,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0470512546598911,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9288273006677628,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9297043681144714,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0847861170768738,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9247367158532143,
+        "average": 0.9771382957696915
+    },
+    {
+        "word_name": "calycogona",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9386909306049347,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9716371670365334,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9825360793620348,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9322784245014191,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9310617297887802,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9390930272638798,
+        "average": 0.9492162264262637
+    },
+    {
+        "word_name": "scoppiodelta",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9437364600598812,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0733124688267708,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0031342725269496,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9944623429328203,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0834885761141777,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9605845771729946,
+        "average": 1.009786449605599
+    },
+    {
+        "word_name": "tensorarrays",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9086854606866837,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.041728362441063,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.009377627633512,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8433045893907547,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8956003561615944,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9145331308245659,
+        "average": 0.935538254523029
+    },
+    {
+        "word_name": "hxxxxd",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0144812213256955,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0036266108509153,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0409738197922707,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 1.0391348227858543,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9349542036652565,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9392603449523449,
+        "average": 0.9954051705620562
+    },
+    {
+        "word_name": "trebenna",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.008148169144988,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.081370286643505,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0508355796337128,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9009294733405113,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9687702767550945,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.039602667093277,
+        "average": 1.0082760754351814
+    },
+    {
+        "word_name": "gastroenterolno",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9181160926818848,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.8989522606134415,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.980513559654355,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8849112838506699,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9353064000606537,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0621305406093597,
+        "average": 0.9466550229117274
+    },
+    {
+        "word_name": "hockeybias",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8888063356280327,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9504096321761608,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9286005795001984,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9387299679219723,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0304355397820473,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0032760233152658,
+        "average": 0.9567096797206128
+    },
+    {
+        "word_name": "qevs",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9507553242146969,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.8945075944066048,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9915961232036352,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8950322195887566,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.137281745672226,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0151946945115924,
+        "average": 0.9807279502662519
+    },
+    {
+        "word_name": "youradmin",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0022932479623705,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9693102482706308,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.979349959641695,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8754758238792419,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9597929865121841,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9831661824136972,
+        "average": 0.9615647414466366
+    },
+    {
+        "word_name": "modeliisparsity",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0561046972870827,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0039368872530758,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9291029721498489,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9434299804270267,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9986368087120354,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9681479074060917,
+        "average": 0.9832265422058603
+    },
+    {
+        "word_name": "mcnenemy",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.926659382879734,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9171510860323906,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.8541642874479294,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8886164128780365,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0180570166558027,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9204405546188354,
+        "average": 0.9208481234187881
+    },
+    {
+        "word_name": "regalist",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9817031063139439,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0133490767329931,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0435600206255913,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9276598691940308,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9206044971942902,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.945794690400362,
+        "average": 0.9721118767435352
+    },
+    {
+        "word_name": "\u0644\u062a\u0632\u064a\u0644",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0,
+        "average": 0.0
+    },
+    {
+        "word_name": "fleetmodel",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9746495541185141,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0086845504119992,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0123829897493124,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8579422980546951,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9869092125445604,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9406971670687199,
+        "average": 0.9635442953246335
+    },
+    {
+        "word_name": "kantara",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8679451495409012,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.8843525722622871,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.015479284338653,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8845394104719162,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9433140195906162,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9806449618190527,
+        "average": 0.9293792330039045
+    },
+    {
+        "word_name": "charttodraw",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0372620336711407,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0154506899416447,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0465050712227821,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9746839366853237,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.01281831972301,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8829400315880775,
+        "average": 0.9949433471386632
+    },
+    {
+        "word_name": "shillibeer",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9545582011342049,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.8932473585009575,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9863198073580861,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.834505632519722,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.0069525623694062,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9941436806693673,
+        "average": 0.9449545404252907
+    },
+    {
+        "word_name": "gvcustomers",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9431310296058655,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.8238086253404617,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9560063518583775,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8570829629898071,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8917568251490593,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9607951156795025,
+        "average": 0.9054301517705122
+    },
+    {
+        "word_name": "messagebird",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8848532810807228,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9012173935770988,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0276632197201252,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8195278346538544,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.034506168216467,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0045943805016577,
+        "average": 0.945393712958321
+    },
+    {
+        "word_name": "ogull",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0109884710982442,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0045431056059897,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9937074901536107,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8815713822841644,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9881236804649234,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.969101645052433,
+        "average": 0.9746726291098943
+    },
+    {
+        "word_name": "molkenthin_",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9889571480453014,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.0527687817811966,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9725766777992249,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8836972638964653,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9189133197069168,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0253121629357338,
+        "average": 0.9737042256941398
+    },
+    {
+        "word_name": "\u0442\u043e\u043b\u0447\u0435\u043d\u044b\u0435",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.979303615167737,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9321291446685791,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9479412026703358,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9088842645287514,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.841739684343338,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9444303661584854,
+        "average": 0.9257380462562045
+    },
+    {
+        "word_name": "lympic",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9115945547819138,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9829429965466261,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9776781126856804,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9722482934594154,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9527642875909805,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0226290468126535,
+        "average": 0.9699762153128783
+    },
+    {
+        "word_name": "textlinguistik",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8504275679588318,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9235183000564575,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9360229000449181,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8916840478777885,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9099481776356697,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.038237027823925,
+        "average": 0.9249730035662651
+    },
+    {
+        "word_name": "tchopper",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0,
+        "average": 0.0
+    },
+    {
+        "word_name": "tingshi",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9938808511942625,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9969637054018676,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9813479743897915,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9243900626897812,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8695438206195831,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9031962305307388,
+        "average": 0.9448871074710041
+    },
+    {
+        "word_name": "xufd",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9629303589463234,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9327812641859055,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9648643136024475,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9005335867404938,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9108461663126945,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8536363244056702,
+        "average": 0.9209320023655891
+    },
+    {
+        "word_name": "rnfbs",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0983665958046913,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9810863584280014,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0671532303094864,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9188272580504417,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9806961100548506,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 1.0058438223786652,
+        "average": 1.0086622291710228
+    },
+    {
+        "word_name": "target_factor",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.875127911567688,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.887692779302597,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.915704257786274,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.814553365111351,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9396096058189869,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.8311934620141983,
+        "average": 0.8773135636001825
+    },
+    {
+        "word_name": "epyrinae",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.9570477604866028,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.8840462639927864,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9312498420476913,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.7969363778829575,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9672490693628788,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9790381286293268,
+        "average": 0.9192612404003739
+    },
+    {
+        "word_name": "nfoils",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8817488923668861,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9339419230818748,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9249531328678131,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.7491587400436401,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.9050495028495789,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9871412934735417,
+        "average": 0.8969989141138891
+    },
+    {
+        "word_name": "christmaswhat",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 1.0092852152884007,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 1.006692404858768,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 0.9815863128751516,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.8994048163294792,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 0.8953613191843033,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.9096433073282242,
+        "average": 0.9503288959773878
+    },
+    {
+        "word_name": "modeselector",
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-5": 0.8428766280412674,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-10": 0.9470918700098991,
+        "../models/case2/w2v-pile-window_size-1--../models/case2/w2v-pile-window_size-25": 1.0725222080945969,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-10": 0.9638472646474838,
+        "../models/case2/w2v-pile-window_size-5--../models/case2/w2v-pile-window_size-25": 1.033888928592205,
+        "../models/case2/w2v-pile-window_size-10--../models/case2/w2v-pile-window_size-25": 0.962813638150692,
+        "average": 0.970506756256024
+    }
+]

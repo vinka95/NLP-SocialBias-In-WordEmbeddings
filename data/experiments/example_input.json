@@ -1,0 +1,78 @@
+{
+    "models": [
+        {
+            "id": "w2v1",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "word2vec" : {
+            "workers": 8 
+            }
+        },
+        {
+            "id": "w2v2",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "word2vec" : {
+            "workers": 8 
+            }
+        },
+        {
+            "id": "w2v3",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "word2vec" : {
+            "workers": 8 
+            }
+        },
+        {
+            "id": "w2v4",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "word2vec" : {
+            "workers": 8 
+            }
+        },
+        {
+            "id": "w2v5",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "word2vec" : {
+            "workers": 8 
+            }
+        }
+    ],
+    "metrics" : ["WEAT", "RNSB"],
+    "queries" : [
+        {
+            "target_sets" : [
+                ["female", "woman", "girl", "sister", "she", "her", "hers", "daughter"],
+                ["male", "man", "boy", "brother", "he", "him", "his", "son"]
+            ],
+            "attribute_sets" : [
+                [
+                    "home",
+                    "parents",
+                    "children",
+                    "family",
+                    "cousins",
+                    "marriage",
+                    "wedding",
+                    "relatives"
+                ],
+                [
+                    "executive",
+                    "management",
+                    "professional",
+                    "corporation",
+                    "salary",
+                    "office",
+                    "business",
+                    "career"
+                ]
+            ],
+            "target_sets_names" : ["Female terms", "Male Terms"],
+            "attribute_sets_names" : ["Family", "Careers"]
+        }    
+    ],
+    "case_id" : "case1" 
+}

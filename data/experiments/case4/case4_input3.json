@@ -1,0 +1,25 @@
+{
+    "models": [
+        {
+            "id": "w2v-pile-min_count-10",
+            "model_name": "word2vec",
+            "dataset": "pile",
+            "model_save_path": "../models/case4/w2v-pile-min_count-10",
+            "word2vec" : {
+	    "min_count": 10,	    
+            "vector_size": 300,
+            "workers": 32
+            }
+     	}
+    ],
+    "metrics" : ["WEAT", "RNSB"],
+    "queries" : [
+        {
+            "queries_path_name" : "../data/raw/queries.json",
+            "target_sets_names" : ["gender", "female", "male"],
+            "attribute_sets_names" : ["family", "career"]
+        }
+    ],
+    "case_id" : "case3-w2v-pile-min_count-10",
+    "results_file_path" : "../data/results/case4/res-case4-w2v-pile-min_count-10.json"
+}

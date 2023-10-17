@@ -1,0 +1,21 @@
+{
+    "models": [
+        {
+            "id": "w2v1",
+            "model_name": "word2vec",
+            "PYTHONHASHSEED" : 8,
+            "word2vec" : {
+            "workers": 8 
+            }
+        }
+    ],
+    "metrics" : ["WEAT", "RNSB"],
+    "queries" : [
+        {
+            "queries_path_name" : "data/raw/queries.json",
+            "target_sets_names" : ["gender", "female", "male"],
+            "attribute_sets_names" : ["family", "career"]
+        }    
+    ],
+    "case_id" : "case2_new_query" 
+}
